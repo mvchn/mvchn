@@ -19,4 +19,5 @@ I am Roman, sometimes Roma (like Rome, some city in Italy)
 * :clipboard: Agile Testing
 * :elephant: PHP 8 Objects, Patterns, and Practice (Matt Zandstra)
 * :computer: The Pragmatic Programmer, 20th Anniversary Edition (David Thomas and Andrew Hunt)
+* :keyboard: Soft Skills: The Software Developer's Life Manual
 
