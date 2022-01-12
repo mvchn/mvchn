@@ -17,7 +17,8 @@ I am Roman, sometimes Roma (like Rome, some city in Italy)
 * :book: Python Crash Course: A Hands-On, Project-Based Introduction to Programming
 * :books: Data Science for Business
 * :clipboard: Agile Testing
-* :elephant: PHP 8 Objects, Patterns, and Practice (Matt Zandstra)
-* :computer: The Pragmatic Programmer, 20th Anniversary Edition (David Thomas and Andrew Hunt)
+* :elephant: PHP 8 Objects, Patterns, and Practice 
+* :computer: The Pragmatic Programmer
 * :keyboard: Soft Skills: The Software Developer's Life Manual
+* :coffee: Effective Java
 
