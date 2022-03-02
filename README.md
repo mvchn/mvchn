@@ -21,4 +21,5 @@ I am Roman, sometimes Roma (like Rome, some city in Italy)
 * :computer: The Pragmatic Programmer
 * :keyboard: Soft Skills: The Software Developer's Life Manual
 * :coffee: Effective Java
+* :boar: Designing Data-Intensive Applications
 
