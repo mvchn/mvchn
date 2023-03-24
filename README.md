@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I am Roman, sometimes Roma (like Rome, some city in Italy)
+I am Roman, sometimes Roma.
 
-🌱 On GitHub I like to merge branches (in, into, on, maybe around) trees
-
+I use TDD as the main practice in the software development.
 
 ## Some books in section "must for read":
 
